@@ -1,0 +1,5 @@
+F:\КОД 1.5._ВАРИАНТ_8\КОД 1.5._ВАРИАНТ_8\WSUniversalLib\bin\Debug\WSUniversalLib.dll
+F:\КОД 1.5._ВАРИАНТ_8\КОД 1.5._ВАРИАНТ_8\WSUniversalLib\bin\Debug\WSUniversalLib.pdb
+F:\КОД 1.5._ВАРИАНТ_8\КОД 1.5._ВАРИАНТ_8\WSUniversalLib\obj\Debug\WSUniversalLib.csproj.CoreCompileInputs.cache
+F:\КОД 1.5._ВАРИАНТ_8\КОД 1.5._ВАРИАНТ_8\WSUniversalLib\obj\Debug\WSUniversalLib.dll
+F:\КОД 1.5._ВАРИАНТ_8\КОД 1.5._ВАРИАНТ_8\WSUniversalLib\obj\Debug\WSUniversalLib.pdb
